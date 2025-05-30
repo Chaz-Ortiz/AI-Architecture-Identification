@@ -1,6 +1,5 @@
 # North American Landmark Identifier (Android App)
 
-[🏛️ **See it in action below!**](#-screenshots)
 ![ChazAIWaltDisney](https://github.com/user-attachments/assets/af2a2689-5ed6-432b-b585-63618ad23391)
 ![ChazAIAlamo](https://github.com/user-attachments/assets/fcb5b557-3419-44da-85c2-62fcf684e252)
 
