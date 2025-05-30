@@ -4,20 +4,17 @@
 ![ChazAIAlamo](https://github.com/user-attachments/assets/fcb5b557-3419-44da-85c2-62fcf684e252)
 
 
-This Android application uses [TensorFlow Lite](https://www.tensorflow.org/lite) to identify **specific buildings and landmarks** in North America from live video. It leverages a custom-trained `.tflite` model to perform on-device image classification, enabling **fast**, **private**, and **offline** landmark recognition directly on the user's device.
+This Android application uses [TensorFlow Lite](https://www.tensorflow.org/lite) to identify **specific buildings and landmarks** in North America from live video. It leverages a `.tflite` model to perform on-device image classification, enabling **fast**, **private**, and **offline** landmark recognition directly on the user's device.
 
 ---
 
 ## 🤖 AI & Machine Learning
 
-This app showcases the power of **mobile machine learning** using **TensorFlow Lite**. The model was trained on a curated dataset of well-known North American landmarks and optimized for deployment on Android.
+This app showcases **mobile machine learning** using **TensorFlow Lite**. The model was trained on a curated dataset of well-known North American landmarks and optimized for deployment on Android.
 
-By running inference entirely on the device:
-- No internet is needed — protecting user privacy
-- Latency is reduced for **real-time predictions**
-- Battery usage and computational cost are minimized due to model quantization and mobile optimizations
+This project demonstrates the practical application of **mobile artificial intelligence** using TensorFlow Lite. A custom model, trained on a dataset of North American landmarks, enables the app to run lightweight, real-time image recognition entirely on Android devices.
 
-TensorFlow Lite provides an ideal framework for such applications, enabling developers to bring advanced AI capabilities to smartphones, IoT devices, and embedded systems.
+TensorFlow Lite’s optimization for mobile performance allows the model to execute quickly and reliably, making it well-suited for use cases where speed, efficiency, and offline capability are critical.
 
 ---
 
