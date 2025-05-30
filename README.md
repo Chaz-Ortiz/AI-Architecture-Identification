@@ -51,3 +51,10 @@ TensorFlow Lite’s optimization for mobile performance allows the model to exec
    ```bash
    git clone https://github.com/Chaz-Ortiz/AI-Architecture-Identification
    cd landmark-identifier
+
+---
+
+## 🧑‍💻 Author
+
+**Chaz Ortiz**
+[GitHub](https://github.com/Chaz-Ortiz) · [LinkedIn](https://www.linkedin.com/in/chaz-ortiz-615863270/) 
