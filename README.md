@@ -8,7 +8,7 @@ This Android application uses [TensorFlow Lite](https://www.tensorflow.org/lite)
 
 ---
 
-## 🤖 AI & Machine Learning
+## AI & Machine Learning
 
 This app showcases **mobile machine learning** using **TensorFlow Lite**. The model was trained on a curated dataset of well-known North American landmarks and optimized for deployment on Android.
 
@@ -18,17 +18,17 @@ TensorFlow Lite’s optimization for mobile performance allows the model to exec
 
 ---
 
-## ✨ Features
+## Features
 
-- 📸 Identifies landmarks and buildings across North America
-- ⚡ Uses TensorFlow Lite for on-device machine learning
-- 🕵️‍♂️ Works in real time using live video frames
-- 📴 Fully offline — no data connection required
-- 📱 Optimized for mobile performance and size
+- Identifies landmarks and buildings across North America
+- Uses TensorFlow Lite for on-device machine learning
+- Works in real time using live video frames
+- Fully offline — no data connection required
+- Optimized for mobile performance and size
 
 ---
 
-## ⚙️ How It Works
+## How It Works
 
 1. The app captures frames from the camera in real time
 2. Each frame is analyzed by the custom TensorFlow Lite model (`namerica.tflite`)
@@ -37,7 +37,7 @@ TensorFlow Lite’s optimization for mobile performance allows the model to exec
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -54,7 +54,7 @@ TensorFlow Lite’s optimization for mobile performance allows the model to exec
 
 ---
 
-## 🧑‍💻 Author
+## Author
 
 **Chaz Ortiz**
 [GitHub](https://github.com/Chaz-Ortiz) · [LinkedIn](https://www.linkedin.com/in/chaz-ortiz-615863270/) 
